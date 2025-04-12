@@ -1,6 +1,6 @@
 
 # 🎬 Netflix Landing Page Clone
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/be8faac0-4056-4580-9f8a-cb53bfe82abc/deploy-status)](https://app.netlify.com/sites/intern-ntflx/deploys) <br>
 Welcome to the **Netflix Landing Page Clone** – a responsive, stylish, and interactive landing page built using **HTML, CSS, and JavaScript**. This project replicates the look and feel of the official Netflix homepage and was created as part of the **TechnoHacks Internship Program** to enhance front-end development skills.
 
 ---
