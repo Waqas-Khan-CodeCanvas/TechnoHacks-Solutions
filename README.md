@@ -101,4 +101,7 @@ This project is part of my **TechnoHacks Internship**, focused on practicing and
 🔗 [GitHub : ](https://github.com/Waqas-Khan-CodeCanvas)  
 📧 [Email : ](mailto:waqaskhan0589@gmail.com)
 
+---
 
+⭐ *If you like this project, don’t forget to give it a star on GitHub and drop your feedback!*  
+💬 *Open to suggestions, collaborations, and opportunities!*
