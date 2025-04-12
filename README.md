@@ -73,8 +73,7 @@ Netflix-Clone/
 
 ## 🔗 Live Demo
 
-👉 [Click here to see it live](https://your-live-demo-link.netlify.app)  
-_(Replace with your actual Netlify or GitHub Pages link)_
+👉 [Click here to see it live](https://intern-ntflx.netlify.app/)  
 
 ---
 
