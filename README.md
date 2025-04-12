@@ -1,6 +1,32 @@
 
 # 🎬 Netflix Landing Page Clone
 [![Netlify Status](https://api.netlify.com/api/v1/badges/be8faac0-4056-4580-9f8a-cb53bfe82abc/deploy-status)](https://app.netlify.com/sites/intern-ntflx/deploys) <br>
+<p align="center">
+  <a href="https://technohacks.co.in">
+    <img src="https://img.shields.io/badge/Internship-TechnoHacks-blueviolet" />
+  </a>
+  <a href="https://github.com/Waqas-Khan-CodeCanvas/Netflix-Landing-Page-Clone">
+    <img src="https://img.shields.io/github/last-commit/Waqas-Khan-CodeCanvas/Netflix-Landing-Page-Clone?color=blue" />
+  </a>
+  <a href="https://github.com/Waqas-Khan-CodeCanvas/Netflix-Landing-Page-Clone">
+    <img src="https://img.shields.io/github/repo-size/Waqas-Khan-CodeCanvas/Netflix-Landing-Page-Clone?color=orange" />
+  </a>
+  <a href="https://github.com/Waqas-Khan-CodeCanvas/Netflix-Landing-Page-Clone/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/Waqas-Khan-CodeCanvas/Netflix-Landing-Page-Clone" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://img.shields.io/badge/HTML-5-orange?logo=html5" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="https://img.shields.io/badge/CSS-3-blue?logo=css3" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://img.shields.io/badge/JavaScript-Vanilla-yellow?logo=javascript" />
+  </a>
+</p>
+
+
+
 Welcome to the **Netflix Landing Page Clone** – a responsive, stylish, and interactive landing page built using **HTML, CSS, and JavaScript**. This project replicates the look and feel of the official Netflix homepage and was created as part of the **TechnoHacks Internship Program** to enhance front-end development skills.
 
 ---
